@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buzzfeed/static/css/main.5584ffa5.css",
+    "main.js": "/buzzfeed/static/js/main.9d4e59e1.js",
+    "index.html": "/buzzfeed/index.html",
+    "main.5584ffa5.css.map": "/buzzfeed/static/css/main.5584ffa5.css.map",
+    "main.9d4e59e1.js.map": "/buzzfeed/static/js/main.9d4e59e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5584ffa5.css",
+    "static/js/main.9d4e59e1.js"
+  ]
+}
